@@ -1,0 +1,11 @@
+/Users/edgarcardoso/Desktop/rp/src/main/java/br/com/rp/RpApplication.java
+/Users/edgarcardoso/Desktop/rp/src/main/java/br/com/rp/controller/GMVController.java
+/Users/edgarcardoso/Desktop/rp/src/main/java/br/com/rp/controller/resource/Cmv.java
+/Users/edgarcardoso/Desktop/rp/src/main/java/br/com/rp/controller/resource/MaisVendidos.java
+/Users/edgarcardoso/Desktop/rp/src/main/java/br/com/rp/controller/resource/MenosVendidos.java
+/Users/edgarcardoso/Desktop/rp/src/main/java/br/com/rp/model/Grupo.java
+/Users/edgarcardoso/Desktop/rp/src/main/java/br/com/rp/model/Produto.java
+/Users/edgarcardoso/Desktop/rp/src/main/java/br/com/rp/model/Vendas.java
+/Users/edgarcardoso/Desktop/rp/src/main/java/br/com/rp/repository/GrupoRepository.java
+/Users/edgarcardoso/Desktop/rp/src/main/java/br/com/rp/repository/ProdutoRepository.java
+/Users/edgarcardoso/Desktop/rp/src/main/java/br/com/rp/repository/VendasRepository.java
